@@ -30,7 +30,7 @@ You'll need the following components:
 ## Circuit Diagram
 Connect the components as shown in the circuit diagram below:
 
-![Circuit Diagram](Circuit diagram.jpj)
+![Circuit Diagram](Circuit diagram.jpg)
 
 ## Setup and Configuration
 1. **Install Arduino IDE:**
