@@ -30,7 +30,7 @@ You'll need the following components:
 ## Circuit Diagram
 Connect the components as shown in the circuit diagram below:
 
-![Circuit Diagram](Circuit diagram.jpg)
+![Circuit Diagram](https://github.com/sohan10012/IOT-Smart-Gardening/blob/main/Circuit-diagram.jpg)
 
 ## Setup and Configuration
 1. **Install Arduino IDE:**
