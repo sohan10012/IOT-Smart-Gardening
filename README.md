@@ -9,7 +9,7 @@ This project utilizes an ESP8266 (NodeMCU), a soil moisture sensor, and an LCD d
 1. [Introduction](#introduction)
 2. [Materials](#materials)
 3. [Circuit Diagram](#circuit-diagram)
-4. [Arduino code]()
+4. [Arduino code](#arduino-code)
 5. [Setup and Configuration](#setup-and-configuration)
 6. [Usage](#usage)
 7. [Contributing](#contributing)
@@ -33,6 +33,10 @@ Connect the components as shown in the circuit diagram below:
 
 ![Circuit Diagram](https://github.com/sohan10012/IOT-Smart-Gardening/blob/main/Circuit-diagram.jpg)
 
+## Arduino Code
+   Use the following link to accesss the code :
+   ![Arduino code](https://github.com/sohan10012/IOT-Smart-Gardening/tree/main/Arduino-code)
+
 ## Setup and Configuration
 1. **Install Arduino IDE:**
    - Make sure you have the Arduino IDE installed.
@@ -49,7 +53,7 @@ Connect the components as shown in the circuit diagram below:
    - Add a Gauge widget to display soil moisture.
    - Add a Button widget to control the water pump.
    - Connect the phone and device with same mobile data and hotspot.
-
+   
 4. **Code Configuration:**
    - Upload the provided Arduino sketch (`smart_plant_watering.ino`) to your NodeMCU.
    - Configure your Wi-Fi credentials and Blynk authentication token.
