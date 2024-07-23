@@ -69,7 +69,7 @@ Connect the components as shown in the circuit diagram below:
 
 ## Contributing
 Contributions are welcome! Fork this repository, make improvements, and submit a pull request.
-Contribution by - @sohan10012 <br>
+Contribution by<br> - @sohan10012 <br>
                 - @bharath_b_d_<br>
                 - @tusharr0613<br>
                 - @_vikashl<br>
