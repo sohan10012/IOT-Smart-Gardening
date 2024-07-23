@@ -68,7 +68,7 @@ Connect the components as shown in the circuit diagram below:
 3. Press the button in the app to activate the water pump.
 
 ## Contributing
-Contributions are welcome! Fork this repository, make improvements, and submit a pull request.
+Contributions are welcome! Fork this repository, make improvements, and submit a pull request.<br>
 Contribution by<br> - @sohan10012 <br>
                 - @bharath_b_d_<br>
                 - @tusharr0613<br>
