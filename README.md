@@ -3,7 +3,7 @@
 ## Overview
 This project utilizes an ESP8266 (NodeMCU), a soil moisture sensor, and an LCD display to create a smart plant watering system. The system monitors soil moisture levels and visualizes real-time data in a Blynk app. Users can also activate a water pump to irrigate plants remotely.
 
-![Project Overview](images/project_overview.jpg)
+![Project Overview](IOT-Smart-Gardening-REPORT.pdf)
 
 ## Table of Contents
 1. [Introduction](#introduction)
