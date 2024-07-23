@@ -9,9 +9,10 @@ This project utilizes an ESP8266 (NodeMCU), a soil moisture sensor, and an LCD d
 1. [Introduction](#introduction)
 2. [Materials](#materials)
 3. [Circuit Diagram](#circuit-diagram)
-4. [Setup and Configuration](#setup-and-configuration)
-5. [Usage](#usage)
-6. [Contributing](#contributing)
+4. [Arduino code]()
+5. [Setup and Configuration](#setup-and-configuration)
+6. [Usage](#usage)
+7. [Contributing](#contributing)
    
 
 ## Introduction
